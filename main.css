@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.energy-schema {
+  display: block;
+  margin-top: 0.625rem;
+  max-width: 15.625rem;
+}
